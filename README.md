@@ -2,7 +2,7 @@
 
 This is the live web demo for Zenwen, see my pinned repository for more info.
 
-Use the demo here: https://github.com/RandoWhoCodes/Zenwen_Demo
+Use the demo here: https://randowhocodes.github.io/Zenwen_Demo/
 
 ---
 
